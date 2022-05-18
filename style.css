@@ -11,6 +11,7 @@
 section {
 
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -24,6 +25,16 @@ section {
 }
 
 .decoration {
+    text-decoration: none;
+    color: rgb(201, 220, 201);
+    background-image: linear-gradient(rgb(14, 199, 5), rgb(15, 0, 4));
+    border: black;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.decoration2 {
     text-decoration: none;
     color: rgb(201, 220, 201);
     background-image: linear-gradient(rgb(14, 199, 5), rgb(15, 0, 4));
