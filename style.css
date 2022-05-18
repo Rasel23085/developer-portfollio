@@ -1,0 +1,38 @@
+.font {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.org {
+
+    color: orange;
+}
+
+section {
+
+    display: flex;
+}
+
+.half-width {
+
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.decoration {
+    text-decoration: none;
+    color: rgb(201, 220, 201);
+    background-image: linear-gradient(rgb(166, 212, 68), crimson);
+    border: black;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.margin {
+    margin-left: 100px;
+}
